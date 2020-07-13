@@ -34,6 +34,7 @@
 ## Pro
 Visit Official Website [Elementor](https://elementor.com/)
 
+## THIRD PARTY PLUGINS:
 ## Woocommerce (use elementor addon to expand the features)
 [Woolentor Addons - Woocommerce Elementor Free](https://wordpress.org/plugins/woolentor-addons/)
 use for Woocommerce with many styles, block, just drag & drop. Insteads of Elementor Pro
