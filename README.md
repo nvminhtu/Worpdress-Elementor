@@ -31,7 +31,7 @@
 * Readmore
 * Wordpress fields (Load features of Wordpress: Archives, Pages, Meta, Categories, Post, Recent post, RSS, Tag Cloud, Comment, Navigation Menu, Custom HTML,...)
 
-## Basic (Pro)
+## Pro
 Visit Official Website [Elementor](https://elementor.com/)
 
 ## Woocommerce (use elementor addon to expand the features)
